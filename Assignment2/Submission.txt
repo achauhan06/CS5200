@@ -1,0 +1,4 @@
+the hostname : cs5200-spring2020-chauhan.cdrcze3aezml.us-east-2.rds.amazonaws.com
+username : achauhan
+password : aishwarya123
+port : 3306 
